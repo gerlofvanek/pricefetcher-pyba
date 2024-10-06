@@ -105,7 +105,7 @@ Fetching Monero price in USD: CoinGecko: 1 XMR = 154.670000 USD CryptoCompare: 1
 
 Binance: 1 XMR = 154.800000 USDT
 
-Fallback method: 1 XMR = 154.670000 USD (Source: coingecko)
+Fallback method: 1 XMR = 154.670000 USD (Source: kraken)
 
 
 ### Bash Version:
@@ -116,7 +116,7 @@ Fetching Monero price in USD: CoinGecko: 1 XMR = 154.670000 USD CryptoCompare: 1
 
 Binance: 1 XMR = 154.800000 USDT
 
-Fallback method: 1 XMR = 154.670000 USD (Source: coingecko)
+Fallback method: 1 XMR = 154.670000 USD (Source: kraken)
 
 
 ## Configuration
